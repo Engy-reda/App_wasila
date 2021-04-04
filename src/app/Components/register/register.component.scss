@@ -1,0 +1,128 @@
+.register {
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+.register-page {
+    background: linear-gradient(45deg,#ff89d4,#eb42ff);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    z-index: 2;
+    overflow: hidden;
+    position: relative;
+}
+
+.log-container {
+    padding: 20px 0;
+    position: relative;
+    z-index: 3;
+    max-width: 500px;
+}
+
+@media (max-width: 576px) {
+    .log-container{ width: 90%;}
+}
+
+.register-page-logo {
+    color: #fff;
+    text-align: center;
+}
+
+.register-page-logo a {
+    cursor: pointer;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.page-icon {
+    width: 180px;
+    height: 58px;
+    display: inline-block;
+    transition: all .2s;
+    fill: #fff;
+    vertical-align: middle;
+    line-height: inherit;
+    font-size: 1em;
+}
+
+.page-icon:hover {
+    fill: #444;
+}
+
+.register-card {
+    box-shadow: 0 15px 17px 3px rgba(72,31,210,.1);
+    background: #fff;
+    border-radius: 20px;
+    padding: calc(1.78571vw + 14.28571px);
+    margin: calc(-0.21429vw + 34.28571px) 0 0;
+}
+
+.register-card h1 {
+    margin-bottom: 2rem;
+}
+
+.reg-field {
+    margin-bottom: 0.5em;
+    font-family: Helvetica-ARlight;
+    
+}
+
+.field-label {
+    display: block;
+    margin-bottom: .5em;
+    font-weight: 700;
+    margin-top: .5em;
+}
+
+.rounded-input {
+    border-radius: 10em;
+    border-color: #000;
+    margin-bottom: .5em;
+    padding: .5em .75em;
+    width: 100%;
+    outline: none;
+    background-color: #fff;
+    line-height: 1.3;
+    border: 2px solid #8f95b3;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.register-btn {
+    background: linear-gradient(45deg,#ff00de,#ff0078);
+    border: 0;
+    border-radius: 10em;
+    color: #fff;
+    transition: .2s;
+    margin-bottom: .5em;
+    padding: 8px 12px 8px 12px;
+    outline: none;
+    text-align: center;
+    cursor: pointer;
+}
+
+.register-btn:hover {
+    box-shadow: 0 15px 17px 3px rgba(72,31,210,.1);
+}
+
+.registerPage-img {
+    position: absolute;
+    left: 67%;
+    top: 45%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    max-width: 100%;
+    height: auto;
+}
+
+@media (max-width: 768px) {
+
+    .register-card {margin: calc(-2.1vw + 34.28571px) 0 0;}
+}

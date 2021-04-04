@@ -1,0 +1,1061 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "year": "2021",
+      "location": "الجامعة الامريكية",
+      "date": "24 Jun 2020",
+      "title": "كيف تاتى بالوان متناسقة لتصميمك",
+      "cover": "event3.jpg",
+      "description": "كل ما تحتاج اليه هو وسيلة تمكنك من التعلم بمفردك و فى البيت بابسط الطرق و فى مجالات عديدة مجانى و باشتراك مميز مناسب للجميع",
+      "speakers": [
+        {
+          "name": "محمد على",
+          "cover": "mohamed.jpg",
+          "bio": "مدرب معتمد من شركة ادوبى و مصمم جرافيك وMotion Artist خبرة 10 سنين فى مجال الجرافيك والموشن جرافيك"
+        },
+        {
+          "name": "كريم على",
+          "cover": "karim.jpg",
+          "bio": "مدرب معتمد من شركة ادوبى و مصمم جرافيك وMotion Artist خبرة 10 سنين فى مجال الجرافيك والموشن جرافيك"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "year": "2021",
+      "location": "الجامعة الامريكية",
+      "date": "24 Jun 2020",
+      "title": "معانى الالوان و توظيفها فى التصميم",
+      "cover": "event1.jpg",
+      "description": "كل ما تحتاج اليه هو وسيلة تمكنك من التعلم بمفردك و فى البيت بابسط الطرق و فى مجالات عديدة مجانى و باشتراك مميز مناسب للجميع",
+      "speakers": [
+        {
+          "name": "محمد على",
+          "cover": "mohamed.jpg",
+          "bio": "مدرب معتمد من شركة ادوبى و مصمم جرافيك وMotion Artist خبرة 10 سنين فى مجال الجرافيك والموشن جرافيك"
+        },
+        {
+          "name": "كريم على",
+          "cover": "karim.jpg",
+          "bio": "مدرب معتمد من شركة ادوبى و مصمم جرافيك وMotion Artist خبرة 10 سنين فى مجال الجرافيك والموشن جرافيك"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "year": "2021",
+      "location": "الجامعة الامريكية",
+      "date": "24 Jun 2020",
+      "title": "كيفية العمل على برنامج الفوتوشوب",
+      "cover": "events7.png",
+      "description": "كل ما تحتاج اليه هو وسيلة تمكنك من التعلم بمفردك و فى البيت بابسط الطرق و فى مجالات عديدة مجانى و باشتراك مميز مناسب للجميع",
+      "speakers": [
+        {
+          "name": "محمد على",
+          "cover": "mohamed.jpg",
+          "bio": "مدرب معتمد من شركة ادوبى و مصمم جرافيك وMotion Artist خبرة 10 سنين فى مجال الجرافيك والموشن جرافيك"
+        },
+        {
+          "name": "كريم على",
+          "cover": "karim.jpg",
+          "bio": "مدرب معتمد من شركة ادوبى و مصمم جرافيك وMotion Artist خبرة 10 سنين فى مجال الجرافيك والموشن جرافيك"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "year": "2021",
+      "location": "الجامعة الامريكية",
+      "date": "24 Jun 2020",
+      "title": "كيف تاتى بالوان متناسقة لتصميمك",
+      "cover": "events8.png",
+      "description": "كل ما تحتاج اليه هو وسيلة تمكنك من التعلم بمفردك و فى البيت بابسط الطرق و فى مجالات عديدة مجانى و باشتراك مميز مناسب للجميع",
+      "speakers": [
+        {
+          "name": "محمد على",
+          "cover": "mohamed.jpg",
+          "bio": "مدرب معتمد من شركة ادوبى و مصمم جرافيك وMotion Artist خبرة 10 سنين فى مجال الجرافيك والموشن جرافيك"
+        },
+        {
+          "name": "كريم على",
+          "cover": "karim.jpg",
+          "bio": "مدرب معتمد من شركة ادوبى و مصمم جرافيك وMotion Artist خبرة 10 سنين فى مجال الجرافيك والموشن جرافيك"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "year": "2021",
+      "location": "الجامعة الامريكية",
+      "date": "24 Jun 2020",
+      "title": "كيف تاتى بالوان متناسقة لتصميمك",
+      "cover": "events5.png",
+      "description": "كل ما تحتاج اليه هو وسيلة تمكنك من التعلم بمفردك و فى البيت بابسط الطرق و فى مجالات عديدة مجانى و باشتراك مميز مناسب للجميع",
+      "speakers": [
+        {
+          "name": "محمد على",
+          "cover": "mohamed.jpg",
+          "bio": "مدرب معتمد من شركة ادوبى و مصمم جرافيك وMotion Artist خبرة 10 سنين فى مجال الجرافيك والموشن جرافيك"
+        },
+        {
+          "name": "كريم على",
+          "cover": "karim.jpg",
+          "bio": "مدرب معتمد من شركة ادوبى و مصمم جرافيك وMotion Artist خبرة 10 سنين فى مجال الجرافيك والموشن جرافيك"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "year": "2021",
+      "location": "الجامعة الامريكية",
+      "date": "24 Jun 2020",
+      "title": "كيف تاتى بالوان متناسقة لتصميمك",
+      "cover": "events6.png",
+      "description": "كل ما تحتاج اليه هو وسيلة تمكنك من التعلم بمفردك و فى البيت بابسط الطرق و فى مجالات عديدة مجانى و باشتراك مميز مناسب للجميع",
+      "speakers": [
+        {
+          "name": "محمد على",
+          "cover": "mohamed.jpg",
+          "bio": "مدرب معتمد من شركة ادوبى و مصمم جرافيك وMotion Artist خبرة 10 سنين فى مجال الجرافيك والموشن جرافيك"
+        },
+        {
+          "name": "كريم على",
+          "cover": "karim.jpg",
+          "bio": "مدرب معتمد من شركة ادوبى و مصمم جرافيك وMotion Artist خبرة 10 سنين فى مجال الجرافيك والموشن جرافيك"
+        }
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "الجرافيك ديزاين",
+      "description": "يتطلب تصميم الجرافيك وجود معنى وهدف لتوضيح فكرة ما من خلال الاتصال المرئي . الآن يمكنك بدء التصميم بطريقة فعالة .",
+      "cover": "graphic.jpg",
+      "price": 3000,
+      "instructor": [
+        {
+          "name": "كريم علي",
+          "cover": "karim.jpg",
+          "bio": "مدرب معتمد من شركة ادوبى و مصمم جرافيك و موشن جرافيك خبرة اكثر من 15 سنة فى مجال الجرافيك والموشن جرافيك و عمل فى كبري المراكز التعليمية و باحث فى مجال التصميم"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "الموشن جرافيك",
+      "description": "يسمح الموشن جرافيك بتوصيل الرسالة بصورة أسرع وأوضح لاستيعاب المعلومات. يمكنك أن تتعرف على أهميته والبدء باحترافية في هذا المجال الممتع.",
+      "cover": "motion.jpg",
+      "price": 2500,
+      "instructor": [
+        {
+          "name": "محمد علي",
+          "cover": "mohamed.jpg",
+          "bio": "مدرب معتمد من شركة ادوبى و مصمم جرافيك وMotion Artist خبرة 10 سنين فى مجال الجرافيك والموشن جرافيك عمل فى كبري المراكز التعليمية ، art director"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "الثري دي آرت",
+      "description": "استخدامك للتقنيات ثلاثية الابعاد لزيادة قيمة الجودة فتصبح الاشياء كأنها واقعية بشكل اكبر وايضا انتاج الرسوم المتحركة المعقدة",
+      "cover": "3d1.jpg",
+      "price": 5000,
+      "instructor": [
+        {
+          "name": "محمد علي",
+          "cover": "mohamed.jpg",
+          "bio": "مدرب معتمد من شركة ادوبى و مصمم جرافيك وMotion Artist خبرة 10 سنين فى مجال الجرافيك والموشن جرافيك عمل فى كبري المراكز التعليمية ، art director"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "الكونسبت آرت",
+      "description": "هو الفن المختص بتحويل الأفكار والمفاهيم لرسومات يمكن استخدامها للأفلام والعاب الفيديو والرسوم المتحركة",
+      "cover": "concept.jpg",
+      "price": 3500,
+      "instructor": [
+        {
+          "name": "أحمد البستكي",
+          "cover": "ahmed.jpg",
+          "bio": "مدرب معتمد من شركة ادوبى و مصمم جرافيك و موشن جرافيك خبرة اكثر من 15 سنة فى مجال الجرافيك والموشن جرافيك و عمل فى كبري المراكز التعليمية و باحث فى مجال التصميم"
+        }
+      ]
+    }
+  ],
+  "alumniLists": [
+    {
+      "id": 1,
+      "name": "عادل مصطفى - Adel Mostafa",
+      "alumni": "../../../assets/imgs/alumni/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "مليكة عز الدين - Malika Ezz El-Din",
+      "alumni": "../../../assets/imgs/alumni/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "محمد أحمد - Mohamed Ahmed",
+      "alumni": "../../../assets/imgs/alumni/4.jpg"
+    },
+    {
+      "id": 4,
+      "name": "داليا عبد العزيز - Dalia Abdel Aziz",
+      "alumni": "../../../assets/imgs/alumni/3.jpg"
+    },
+    {
+      "id": 5,
+      "name": "عبد الرحمن محمد - Abdulrahman Mohammed",
+      "alumni": "../../../assets/imgs/alumni/7.jpg"
+    },
+    {
+      "id": 6,
+      "name": "نور محمد - Noor Mohammad",
+      "alumni": "../../../assets/imgs/alumni/5.jpg"
+    },
+    {
+      "id": 7,
+      "name": "حازم عثمان - Hazem Othman",
+      "alumni": "../../../assets/imgs/alumni/6.jpg"
+    },
+    {
+      "id": 8,
+      "name": "هشام ماجد - Hisham Majid",
+      "alumni": "../../../assets/imgs/alumni/8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "دينا اسامه - Dina Osama",
+      "alumni": "../../../assets/imgs/alumni/9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "نادية شحاته - Nadia Shehata",
+      "alumni": "../../../assets/imgs/alumni/10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "عبد المنعم ياسر - Abdel Moneim Yasser",
+      "alumni": "../../../assets/imgs/alumni/11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "ياسمين صلاح - Yasmine Salah",
+      "alumni": "../../../assets/imgs/alumni/12.jpg"
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "title": " كيفية العمل على برنامج الفوتوشوب",
+      "records": 12,
+      "fill": "#52c5f1",
+      "bgc": "#daf6ff"
+    },
+    {
+      "id": 2,
+      "title": "تعلم كيفية استخدام الانظمة الشبكية فى إنتاج التصميمات المختلفة",
+      "records": 9,
+      "fill": "#fab71a",
+      "bgc": "#fff7e7"
+    },
+    {
+      "id": 3,
+      "title": "تعلم كيفية عمل اسكتشات لأفكارك وتطويرها على الورق ",
+      "records": 3,
+      "fill": "#fc408c",
+      "bgc": "#fff3f8"
+    },
+    {
+      "id": 4,
+      "title": "تعلم كيف تفكر كمصمم ",
+      "records": 10,
+      "fill": "#532cd8",
+      "bgc": "#f3efff"
+    },
+    {
+      "id": 5,
+      "title": "تعلم مبادئ التصميم الأساسية",
+      "records": 16,
+      "fill": "#e876f7",
+      "bgc": "#fce7fe"
+    },
+    {
+      "id": 6,
+      "title": "تعلم كيف تضع اللمسات النهائية",
+      "records": 12,
+      "fill": "#52c5f1",
+      "bgc": "#daf6ff"
+    },
+    {
+      "id": 7,
+      "title": "تعلم كيف تنشئ تصميمات تتحكم فى عين المشاهد",
+      "records": 9,
+      "fill": "#fab71a",
+      "bgc": "#fff7e7"
+    },
+    {
+      "id": 8,
+      "title": " كيفية العمل على برنامج الفوتوشوب",
+      "records": 16,
+      "fill": "#fc408c",
+      "bgc": "#fff3f8"
+    },
+    {
+      "id": 9,
+      "title": "تعلم كيفية عمل اسكتشات لأفكارك وتطويرها على الورق ",
+      "records": 10,
+      "fill": "#532cd8",
+      "bgc": "#f3efff"
+    },
+    {
+      "id": 10,
+      "title": "تعلم كيف تفكر كمصمم ",
+      "records": 12,
+      "fill": "#e876f7",
+      "bgc": "#fce7fe"
+    },
+    {
+      "id": 11,
+      "title": "تعلم مبادئ التصميم الأساسية",
+      "records": 13,
+      "fill": "#52c5f1",
+      "bgc": "#daf6ff"
+    },
+    {
+      "id": 12,
+      "title": "تعلم كيف تضع اللمسات النهائية",
+      "records": 28,
+      "fill": "#fab71a",
+      "bgc": "#fff7e7"
+    },
+    {
+      "id": 13,
+      "title": "تعلم كيف تنشئ تصميمات تتحكم فى عين المشاهد",
+      "records": 26,
+      "fill": "#fc408c",
+      "bgc": "#fff3f8"
+    },
+    {
+      "id": 14,
+      "title": " كيفية العمل على برنامج الفوتوشوب",
+      "records": 10,
+      "fill": "#532cd8",
+      "bgc": "#f3efff"
+    },
+    {
+      "id": 15,
+      "title": "تعلم كيفية عمل اسكتشات لأفكارك وتطويرها على الورق ",
+      "records": 16,
+      "fill": "#e876f7",
+      "bgc": "#fce7fe"
+    },
+    {
+      "id": 16,
+      "title": "تعلم كيف تفكر كمصمم ",
+      "records": 10,
+      "fill": "#52c5f1",
+      "bgc": "#fce7fe"
+    },
+    {
+      "id": 17,
+      "title": "تعلم كيف تضع اللمسات النهائية",
+      "records": 22,
+      "fill": "#fab71a",
+      "bgc": "#daf6ff"
+    },
+    {
+      "id": 18,
+      "title": "تعلم كيف تنشئ تصميمات تتحكم فى عين المشاهد",
+      "records": 19,
+      "fill": "#fc408c",
+      "bgc": "#fff7e7"
+    },
+    {
+      "id": 19,
+      "title": " كيفية العمل على برنامج الفوتوشوب",
+      "records": 16,
+      "fill": "#532cd8",
+      "bgc": "#fff3f8"
+    },
+    {
+      "id": 20,
+      "title": "تعلم كيفية عمل اسكتشات لأفكارك وتطويرها على الورق ",
+      "records": 9,
+      "fill": "#e876f7",
+      "bgc": "#f3efff"
+    },
+    {
+      "id": 21,
+      "title": "تعلم كيف تفكر كمصمم ",
+      "records": 17,
+      "fill": "#532cd8",
+      "bgc": "#fce7fe"
+    },
+    {
+      "id": 22,
+      "title": "تعلم كيف تضع اللمسات النهائية",
+      "records": 20,
+      "fill": "#fc408c",
+      "bgc": "#daf6ff"
+    },
+    {
+      "id": 23,
+      "title": "تعلم كيف تنشئ تصميمات تتحكم فى عين المشاهد",
+      "records": 18,
+      "fill": "#52c5f1",
+      "bgc": "#fff7e7"
+    },
+    {
+      "id": 24,
+      "title": " كيفية العمل على برنامج الفوتوشوب",
+      "records": 12,
+      "fill": "#fab71a",
+      "bgc": "#fff3f8"
+    },
+    {
+      "id": 25,
+      "title": "تعلم كيفية عمل اسكتشات لأفكارك وتطويرها على الورق ",
+      "records": 15,
+      "fill": "#fc408c",
+      "bgc": "#f3efff"
+    }
+  ],
+  "sounds": [
+    {
+      "id": 1,
+      "title": "تعلم كيف تنشئ تصميمات تتحكم فى عين المشاهد",
+      "minutes": 30,
+      "fill": "#e876f7",
+      "bgc": "#fce7fe"
+    },
+    {
+      "id": 2,
+      "title": "كيفية العمل على برنامج الفوتوشوب",
+      "minutes": 15,
+      "fill": "#532cd8",
+      "bgc": "#f3efff"
+    },
+    {
+      "id": 3,
+      "title": "تعلم كيفية عمل اسكتشات لأفكارك وتطويرها على الورق ",
+      "minutes": 20,
+      "fill": "#fc408c",
+      "bgc": "#fff3f8"
+    }
+  ],
+  "Valbums": [
+    {
+      "id": 1,
+      "title": " كيفية العمل على برنامج الفوتوشوب",
+      "records": 10,
+      "image": "../../../assets/imgs/projects/2.png"
+    },
+    {
+      "id": 2,
+      "title": "تعلم كيفية استخدام الانظمة الشبكية فى إنتاج التصميمات المختلفة",
+      "records": 19,
+      "image": "../../../assets/imgs/projects/8.png"
+    },
+    {
+      "id": 3,
+      "title": "تعلم كيفية عمل اسكتشات لأفكارك وتطويرها على الورق ",
+      "records": 26,
+      "image": "../../../assets/imgs/projects/9.png"
+    },
+    {
+      "id": 4,
+      "title": "تعلم كيف تفكر كمصمم ",
+      "records": 17,
+      "image": "../../../assets/imgs/projects/14.png"
+    },
+    {
+      "id": 5,
+      "title": "تعلم مبادئ التصميم الأساسية",
+      "records": 12,
+      "image": "../../../assets/imgs/projects/11.png"
+    },
+    {
+      "id": 6,
+      "title": "تعلم كيف تضع اللمسات النهائية",
+      "records": 15,
+      "image": "../../../assets/imgs/projects/15.png"
+    },
+    {
+      "id": 7,
+      "title": "تعلم كيف تنشئ تصميمات تتحكم فى عين المشاهد",
+      "records": 23,
+      "image": "../../../assets/imgs/projects/16.png"
+    },
+    {
+      "id": 8,
+      "title": " كيفية العمل على برنامج الفوتوشوب",
+      "records": 20,
+      "image": "../../../assets/imgs/projects/2.png"
+    },
+    {
+      "id": 9,
+      "title": "تعلم كيفية استخدام الانظمة الشبكية فى إنتاج التصميمات المختلفة",
+      "records": 15,
+      "image": "../../../assets/imgs/projects/8.png"
+    },
+    {
+      "id": 10,
+      "title": "تعلم كيفية عمل اسكتشات لأفكارك وتطويرها على الورق ",
+      "records": 12,
+      "image": "../../../assets/imgs/projects/9.png"
+    },
+    {
+      "id": 11,
+      "title": "تعلم كيف تفكر كمصمم ",
+      "records": 17,
+      "image": "../../../assets/imgs/projects/14.png"
+    },
+    {
+      "id": 12,
+      "title": "تعلم مبادئ التصميم الأساسية",
+      "records": 4,
+      "image": "../../../assets/imgs/projects/11.png"
+    },
+    {
+      "id": 13,
+      "title": "تعلم كيف تضع اللمسات النهائية",
+      "records": 7,
+      "image": "../../../assets/imgs/projects/15.png"
+    },
+    {
+      "id": 14,
+      "title": "تعلم كيف تنشئ تصميمات تتحكم فى عين المشاهد",
+      "records": 3,
+      "image": "../../../assets/imgs/projects/16.png"
+    },
+    {
+      "id": 15,
+      "title": " كيفية العمل على برنامج الفوتوشوب",
+      "records": 10,
+      "image": "../../../assets/imgs/projects/2.png"
+    },
+    {
+      "id": 16,
+      "title": "تعلم كيفية استخدام الانظمة الشبكية فى إنتاج التصميمات المختلفة",
+      "records": 18,
+      "image": "../../../assets/imgs/projects/8.png"
+    },
+    {
+      "id": 17,
+      "title": "تعلم كيفية عمل اسكتشات لأفكارك وتطويرها على الورق ",
+      "records": 9,
+      "image": "../../../assets/imgs/projects/9.png"
+    },
+    {
+      "id": 18,
+      "title": "تعلم كيف تفكر كمصمم ",
+      "records": 10,
+      "image": "../../../assets/imgs/projects/14.png"
+    },
+    {
+      "id": 19,
+      "title": "تعلم مبادئ التصميم الأساسية",
+      "records": 11,
+      "image": "../../../assets/imgs/projects/11.png"
+    },
+    {
+      "id": 20,
+      "title": "تعلم كيف تضع اللمسات النهائية",
+      "records": 15,
+      "image": "../../../assets/imgs/projects/15.png"
+    },
+    {
+      "id": 21,
+      "title": "تعلم كيف تنشئ تصميمات تتحكم فى عين المشاهد",
+      "records": 12,
+      "image": "../../../assets/imgs/projects/16.png"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": " كيفية العمل على برنامج الفوتوشوب",
+      "minutes": 10,
+      "image": "../../../assets/imgs/projects/2.png"
+    },
+    {
+      "id": 2,
+      "title": "تعلم كيفية استخدام الانظمة الشبكية فى إنتاج التصميمات المختلفة",
+      "minutes": 20,
+      "image": "../../../assets/imgs/projects/8.png"
+    },
+    {
+      "id": 3,
+      "title": "تعلم كيفية عمل اسكتشات لأفكارك وتطويرها على الورق ",
+      "minutes": 30,
+      "image": "../../../assets/imgs/projects/9.png"
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "name": "محمد علي",
+      "date": "15 November 2020",
+      "like": 223,
+      "comment": 34,
+      "authorimage": "../../../assets/imgs/alumni/8.jpg",
+      "text": "يتطلب تصميم الجرافيك وجود معنى وهدف لتوضيح فكرة ما من خلال الاتصال المرئي . الآن يمكنك بدء التصميم بطريقة فعالة .",
+      "image": "../../../assets/imgs/blog/a-11.jpg"
+    },
+    {
+      "id": 2,
+      "name": "محمد علي",
+      "date": "20 December 2020",
+      "like": 450,
+      "comment": 22,
+      "authorimage": "../../../assets/imgs/alumni/8.jpg",
+      "text": "تصميم الجرافيك من المجالات التى لا غنى عنها فى حياتنا اليومية ، فنراه فى كل مكان حولنا ، سواء على الشاشات أو فى الطباعة",
+      "image": "../../../assets/imgs/blog/a-15.jpg"
+    },
+    {
+      "id": 3,
+      "name": "محمد علي",
+      "date": "17 November 2019",
+      "like": 220,
+      "comment": 40,
+      "authorimage": "../../../assets/imgs/alumni/8.jpg",
+      "text": "فى هذه الدورة سوف تتعلم المهارات والمفاهيم والأدوات التي تساعدك على تحقيق ذلك .",
+      "image": "../../../assets/imgs/blog/a-14.jpg"
+    },
+    {
+      "id": 4,
+      "name": "محمد علي",
+      "date": "30 October 2020",
+      "like": 700,
+      "comment": 46,
+      "authorimage": "../../../assets/imgs/alumni/8.jpg",
+      "text": "يتطلب تصميم الجرافيك وجود معنى وهدف لتوضيح فكرة ما من خلال الاتصال المرئي . الآن يمكنك بدء التصميم بطريقة فعالة .",
+      "image": "../../../assets/imgs/blog/a-12.jpg"
+    },
+    {
+      "id": 5,
+      "name": "محمد علي",
+      "date": "22 August 2020",
+      "like": 222,
+      "comment": 80,
+      "authorimage": "../../../assets/imgs/alumni/8.jpg",
+      "text": "تصميم الجرافيك من المجالات التى لا غنى عنها فى حياتنا اليومية ، فنراه فى كل مكان حولنا ، سواء على الشاشات أو فى الطباعة",
+      "image": "../../../assets/imgs/blog/a-13.jpg"
+    }
+  ],
+  "coursess": [
+    {
+      "id": 1,
+      "image": "../../../assets/imgs/miniCourses/3.jpg",
+      "text1": "The Web Developer",
+      "text2": "Bootcamp 2021",
+      "time": "12:30"
+    },
+    {
+      "id": 2,
+      "image": "../../../assets/imgs/miniCourses/4.jpg",
+      "text1": "Ultimate AWS Certified Solutions ",
+      "text2": "Architect Associate 2021",
+      "time": "11:30"
+    },
+    {
+      "id": 3,
+      "image": "../../../assets/imgs/miniCourses/5.jpg",
+      "text1": "Front End Web Development",
+      "text2": "Master Course for 2021",
+      "time": "10:20"
+    },
+    {
+      "id": 4,
+      "image": "../../../assets/imgs/miniCourses/11.jpg",
+      "text1": "Modern React with",
+      "text2": "Redux [2020 Update]",
+      "time": "9:30"
+    },
+    {
+      "id": 5,
+      "image": "../../../assets/imgs/miniCourses/1.jpg",
+      "text1": "The Complete 2021",
+      "text2": "Web Development Bootcamp",
+      "time": "10:30"
+    },
+    {
+      "id": 6,
+      "image": "../../../assets/imgs/miniCourses/12.jpg",
+      "text1": "Flutter & Dart - ",
+      "text2": "The Complete Guide [2021 Edition]",
+      "time": "6:15"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "image": "../../../assets/imgs/alumni/6.jpg",
+      "name": "حازم عثمان",
+      "text": "فى هذه الدورة سوف تتعلم المهارات والمفاهيم والأدوات التي تساعدك على تحقيق ذلك ."
+    },
+    {
+      "id": 2,
+      "image": "../../../assets/imgs/alumni/10.jpg",
+      "name": " ناديه شحاته",
+      "text": "يتطلب تصميم الجرافيك وجود معنى وهدف لتوضيح فكرة ما من خلال الاتصال المرئي . الآن يمكنك بدء التصميم بطريقة فعالة ."
+    },
+    {
+      "id": 3,
+      "image": "../../../assets/imgs/alumni/11.jpg",
+      "name": "عبدالمنعم ياسر",
+      "text": "تصميم الجرافيك من المجالات التى لا غنى عنها فى حياتنا اليومية ، فنراه فى كل مكان حولنا ، سواء على الشاشات أو فى الطباعة"
+    },
+    {
+      "id": 4,
+      "image": "../../../assets/imgs/alumni/12.jpg",
+      "name": "ياسمين صلاح",
+      "text": "فى هذه الدورة سوف تتعلم المهارات والمفاهيم والأدوات التي تساعدك على تحقيق ذلك ."
+    },
+    {
+      "id": 5,
+      "image": "../../../assets/imgs/alumni/8.jpg",
+      "name": "هشام ماجد",
+      "text": "يتطلب تصميم الجرافيك وجود معنى وهدف لتوضيح فكرة ما من خلال الاتصال المرئي . الآن يمكنك بدء التصميم بطريقة فعالة ."
+    },
+    {
+      "id": 6,
+      "image": "../../../assets/imgs/alumni/9.jpg",
+      "name": "دينا أسامه",
+      "text": "تصميم الجرافيك من المجالات التى لا غنى عنها فى حياتنا اليومية ، فنراه فى كل مكان حولنا ، سواء على الشاشات أو فى الطباعة"
+    },
+    {
+      "id": 7,
+      "image": "../../../assets/imgs/alumni/3.jpg",
+      "name": "داليا عبد العزيز",
+      "text": "فى هذه الدورة سوف تتعلم المهارات والمفاهيم والأدوات التي تساعدك على تحقيق ذلك ."
+    },
+    {
+      "id": 8,
+      "image": "../../../assets/imgs/alumni/7.jpg",
+      "name": "عبد الرحمن محمد",
+      "text": "يتطلب تصميم الجرافيك وجود معنى وهدف لتوضيح فكرة ما من خلال الاتصال المرئي . الآن يمكنك بدء التصميم بطريقة فعالة ."
+    },
+    {
+      "id": 9,
+      "image": "../../../assets/imgs/alumni/5.jpg",
+      "name": "نور محمد",
+      "text": "تصميم الجرافيك من المجالات التى لا غنى عنها فى حياتنا اليومية ، فنراه فى كل مكان حولنا ، سواء على الشاشات أو فى الطباعة"
+    }
+  ],
+  "minicourses": [
+    {
+      "id": 1,
+      "name": "The Complete 2021 Web Development Bootcamp",
+      "image": "../../../assets/imgs/miniCourses/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "2021 Complete Python Bootcamp From Zero to Hero in Python",
+      "image": "../../../assets/imgs/miniCourses/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "The Web Developer Bootcamp 2021",
+      "image": "../../../assets/imgs/miniCourses/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ultimate AWS Certified Solutions Architect Associate 2021",
+      "image": "../../../assets/imgs/miniCourses/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Front End Web Development Master Course for 2021",
+      "image": "../../../assets/imgs/miniCourses/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "The Complete JavaScript Course 2021: From Zero to Expert!",
+      "image": "../../../assets/imgs/miniCourses/6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Microsoft Excel - Excel from Beginner to Advanced",
+      "image": "../../../assets/imgs/miniCourses/7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Automate the Boring Stuff with Python Programming",
+      "image": "../../../assets/imgs/miniCourses/8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+      "image": "../../../assets/imgs/miniCourses/9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Ultimate AWS Certified Solutions Architect Associate 2021",
+      "image": "../../../assets/imgs/miniCourses/10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Modern React with Redux [2020 Update]",
+      "image": "../../../assets/imgs/miniCourses/11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Flutter & Dart - The Complete Guide [2021 Edition]",
+      "image": "../../../assets/imgs/miniCourses/12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "The Complete Cryptocurrency Course: More than 5 Courses in 1",
+      "image": "../../../assets/imgs/miniCourses/13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "The Complete Cryptocurrency Course: More than 5 Courses in 1",
+      "image": "../../../assets/imgs/miniCourses/14.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Certified Kubernetes Administrator (CKA) with Practice Tests",
+      "image": "../../../assets/imgs/miniCourses/15.jpg"
+    },
+    {
+      "id": 16,
+      "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+      "image": "../../../assets/imgs/miniCourses/16.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Microsoft Excel - Excel from Beginner to Advanced",
+      "image": "../../../assets/imgs/miniCourses/1.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Front End Web Development Master Course for 2021",
+      "image": "../../../assets/imgs/miniCourses/2.jpg"
+    },
+    {
+      "id": 19,
+      "name": "The Web Developer Bootcamp 2021",
+      "image": "../../../assets/imgs/miniCourses/3.jpg"
+    },
+    {
+      "id": 20,
+      "name": "The Complete 2021 Web Development Bootcamp",
+      "image": "../../../assets/imgs/miniCourses/4.jpg"
+    }
+  ],
+  "admins": [
+    {
+      "id": 1,
+      "name": "Hazem Allam",
+      "userName": "allam",
+      "password": "123456789"
+    },
+    {
+      "id": 2,
+      "userName": "amr17",
+      "name": "Amr Hesham",
+      "password": "123456789"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": " محمد احمد",
+      "email": "gggg@jj.com",
+      "password": "122gfddrf"
+    },
+    {
+      "id": 2,
+      "name": " ناديه شحاته",
+      "email": "hgf@jj.com",
+      "password": "122gfddrf"
+    },
+    {
+      "id": 3,
+      "name": "حازم عثمان",
+      "email": "gmnk@jj.com",
+      "password": "114522gfddrf"
+    },
+    {
+      "id": 4,
+      "name": "داليا عبد العزيز",
+      "email": "gghgg@jj.com",
+      "password": "1289gfddrf"
+    },
+    {
+      "name": "انجى",
+      "email": "engy.reda.s333@gmail.com",
+      "password": "22",
+      "id": 5
+    },
+    {
+      "name": "انجى",
+      "email": "engy.reda.s333@gmail.com",
+      "password": "22",
+      "id": 6
+    },
+    {
+      "name": "انجى",
+      "email": "engy.reda.s333@gmail.com",
+      "password": "kjhhgfds",
+      "id": 7
+    },
+    {
+      "name": "HAZEM",
+      "email": "hazem@gmail.com",
+      "password": "123456789",
+      "id": 8
+    },
+    {
+      "name": "حبيبة",
+      "email": "bibowael_17@hotmail.com",
+      "password": "dodo1795",
+      "id": 9
+    },
+    {
+      "name": "Mohamed",
+      "email": "bibowael.17@gmail.com",
+      "password": "dodobibo",
+      "id": 10
+    },
+    {
+      "name": "حبيبة",
+      "email": "bibowael_17@hotmail.com",
+      "password": "dodododododo",
+      "id": 11
+    },
+    {
+      "name": "habibaa",
+      "email": "bibowael_17@hotmail.com",
+      "password": "dodododo",
+      "id": 12
+    },
+    {
+      "name": "حبيبة",
+      "email": "bibowael_17@hotmail.com",
+      "password": "dodododododo",
+      "id": 13
+    },
+    {
+      "name": "bibo",
+      "email": "habibawael@gmail.com",
+      "password": "123456",
+      "id": 14
+    },
+    {
+      "name": "bibo",
+      "email": "bibo123@gmail",
+      "password": "habiba123",
+      "id": 15
+    },
+    {
+      "name": "bibo",
+      "email": "bibobibo@gmail.com",
+      "password": "dodododo",
+      "id": 16
+    },
+    {
+      "name": "amira",
+      "email": "amiraabdelhady885@gmail.com",
+      "password": "123456789",
+      "id": 17
+    },
+    {
+      "name": "amrhesham",
+      "email": "amrhesham1777@gmail.com",
+      "password": "123456789",
+      "id": 18
+    },
+    {
+      "name": "hvvdk",
+      "email": "bibobibobibo@hotmail.com",
+      "password": "123456",
+      "id": 19
+    }
+  ],
+  "carts": [
+    {
+      "courseId": 1,
+      "name": "The Complete 2021 Web Development Bootcamp",
+      "userEmail": "marcmagedbaky@hotmail.com",
+      "image": "../../../assets/imgs/miniCourses/1.jpg",
+      "id": 4
+    },
+    {
+      "courseId": 3,
+      "name": "The Web Developer Bootcamp 2021",
+      "userEmail": "marcmagedbaky@hotmail.com",
+      "image": "../../../assets/imgs/miniCourses/3.jpg",
+      "id": 5
+    },
+    {
+      "courseId": 4,
+      "name": "Ultimate AWS Certified Solutions Architect Associate 2021",
+      "userEmail": "marcmagedbaky@hotmail.com",
+      "image": "../../../assets/imgs/miniCourses/4.jpg",
+      "id": 11
+    },
+    {
+      "courseId": 1,
+      "name": "The Complete 2021 Web Development Bootcamp",
+      "userEmail": "amrhesham1777@gmail.com",
+      "image": "../../../assets/imgs/miniCourses/1.jpg",
+      "id": 12
+    },
+    {
+      "courseId": 1,
+      "name": "The Complete 2021 Web Development Bootcamp",
+      "userEmail": "hazem@gmail.com",
+      "image": "../../../assets/imgs/miniCourses/1.jpg",
+      "id": 13
+    },
+    {
+      "courseId": 2,
+      "name": "2021 Complete Python Bootcamp From Zero to Hero in Python",
+      "userEmail": "hazem@gmail.com",
+      "image": "../../../assets/imgs/miniCourses/2.jpg",
+      "id": 14
+    },
+    {
+      "courseId": 3,
+      "name": "The Web Developer Bootcamp 2021",
+      "userEmail": "hazem@gmail.com",
+      "image": "../../../assets/imgs/miniCourses/3.jpg",
+      "id": 15
+    },
+    {
+      "courseId": 6,
+      "name": "The Complete JavaScript Course 2021: From Zero to Expert!",
+      "userEmail": "hazem@gmail.com",
+      "image": "../../../assets/imgs/miniCourses/6.jpg",
+      "id": 16
+    },
+    {
+      "courseId": 5,
+      "name": "Front End Web Development Master Course for 2021",
+      "userEmail": "hazem@gmail.com",
+      "image": "../../../assets/imgs/miniCourses/5.jpg",
+      "id": 17
+    },
+    {
+      "courseId": 1002,
+      "name": "الجرافيك ديزاين",
+      "userEmail": "hazem@gmail.com",
+      "image": "../../../assets/imgs/55.jpg",
+      "id": 18
+    },
+    {
+      "courseId": 1000,
+      "name": "الموشن جرافيك",
+      "userEmail": "hazem@gmail.com",
+      "image": "../../../assets/imgs/58.jpg",
+      "id": 19
+    }
+  ]
+}

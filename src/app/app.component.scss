@@ -1,0 +1,60 @@
+.userlogout {
+    position: fixed;
+    bottom: 16px;
+    left: 16px;
+    z-index: 5;
+}
+ 
+.logout {
+    width: 150px;
+    height: 46px;
+    background: linear-gradient(90deg, #9376f7, #4015d0) !important;
+    border-radius: 20rem;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 40px;
+    cursor: pointer;
+    transition: all 0.3s;
+    box-shadow: 0 4px 17px 3px rgba(72, 31, 210, 0.3);
+}
+ 
+.logout:hover {
+    transition: all 0.3s;
+    box-shadow: 0 15px 17px 3px rgba(72,31,210,0.2);
+}
+
+.lang-btns {
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
+    z-index: 5;
+    box-shadow: 0 4px 17px 3px rgba(72, 31, 210, 0.3);
+}
+
+.lang-btns .btn-primary {
+    background: linear-gradient(200deg, #ff00de, #ff0078);
+    border: none;
+    height: 46px;
+}
+
+.user-avatar {
+    position: fixed;
+    bottom: 80px;
+    left: 50px;
+    z-index: 5;
+    width: 75px;
+    height: 78px;
+    border-radius: 50%;
+    box-shadow: 0 4px 17px 3px rgba(72, 31, 210, 0.3);
+    border: 3px solid;
+    border-color: #9376f7;
+    cursor: pointer;
+    transition: all .2s;
+}
+
+.user-avatar:hover {
+    opacity: 0.8;
+}

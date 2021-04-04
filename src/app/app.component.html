@@ -1,0 +1,16 @@
+<ngx-spinner bdColor = "rgba(0, 0, 0, 0.8)" size = "medium" color = "#9376f7" type = "ball-climbing-dot" [fullScreen] = "true">
+  <p style="color: white" > جاري التحميل ... </p>
+</ngx-spinner>
+<router-outlet></router-outlet>
+<div class="container" style="text-align: center; margin-bottom: 20px; margin-top: 20px;">
+      <div class="btn-group lang-btns" role="group" aria-label="Basic example">
+        <button (click)="translate.use('ar')" type="button" class="btn btn-primary">عربي</button>
+        <button (click)="translate.use('en')" type="button" class="btn btn-primary">English</button>
+      </div>
+      <img *ngIf="auth()" routerLink="/userprofile" class="user-avatar" src="../assets/imgs/user.jpg" alt="">
+      <div *ngIf="auth()" class="userlogout" (click)="logout()">
+        <div class="logout">
+          <h6>Logout - خروج</h6>
+        </div>
+      </div>
+</div>
